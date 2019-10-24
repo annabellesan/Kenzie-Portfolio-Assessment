@@ -1,0 +1,58 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+}
+
+h1, h3 {
+  text-align: center;
+}
+
+h3, h5 {
+  font-weight: bold;
+}
+
+a, a:hover, a:active {
+  color: black;
+}
+
+.aboutText {
+  text-align: left;
+}
+
+#about-me {
+  width: 80%;
+  display: flex;
+  justify-content: center;
+  margin-top: 5%;
+}
+
+.aboutMeArea1 {
+  width: 45%;
+}
+
+.aboutMeArea2 {
+  width: 35%;
+}
+
+.card-deck {
+  margin-top: 5%;
+}
+
+.obviousPoint {
+  font-weight: bold;
+}
+
+#contactMeStuff {
+  margin-top: 5%;
+  text-align: center;
+}
+
+#contactGuts {
+  margin-top: 5%;
+}
+
+.fab {
+  height: 20%
+}
